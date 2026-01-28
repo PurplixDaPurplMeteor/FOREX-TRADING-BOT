@@ -27,6 +27,8 @@ The goal of this project is educational, experimental, and research-oriented, al
 
 
 #Project Structure (Detailed Explanation)
+
+
 FOREX TRADING/
 │
 ├── ALL_MODELS/
@@ -36,7 +38,7 @@ FOREX TRADING/
 │   ├── EURUSD_lgbm_T_15M.pkl
 │   ├── EURUSD_lgbm_T_20M.pkl
 │   ├── EURUSD_lgbm_T_30M.pkl
-│
+|
 ├── CSV_FILES/
 │   ├── BACKTEST_DATA.csv
 │   ├── dukascopy_EURUSD_5M.csv
