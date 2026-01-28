@@ -27,7 +27,6 @@ The goal of this project is educational, experimental, and research-oriented, al
 
 
 #Project Structure (Detailed Explanation)
-
 FOREX TRADING/
 │
 ├── ALL_MODELS/
